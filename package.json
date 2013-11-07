@@ -22,7 +22,10 @@
   },
   "dependencies": {
     "yeoman-generator": "~0.13.0",
-    "lodash": "~1.2.0"
+    "lodash": "~1.2.0",
+    "abc-generator": "~0.1.5",
+    "github": "~0.1.8"
+   
   },
   "devDependencies": {
     "mocha": "~1.12.0"
