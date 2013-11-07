@@ -1,0 +1,8 @@
+{
+    "name": "<%= proname%>",
+    "version": "<%= version %>",
+    "keywords": ["util"],
+    "maintainers": ["<%= author%> <<%= email%>>"],
+    "description": "<%= prodesc%>",
+    "output": ""
+}
