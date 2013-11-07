@@ -119,4 +119,5 @@ proto.mk = function() {
 proto.createVersion = function() {
   var version = this.version;
   this.template('index.html', path.join(version, 'examples', 'index.html'));
+  this.template('index.js', path.join(version, this.proname + '.js'));
 };
