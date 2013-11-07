@@ -1,4 +1,4 @@
 generator-qiwoo-gallery
 =======================
 
-yoman for qiwoo
+yeoman for qiwoo
